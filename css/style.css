@@ -1,0 +1,13 @@
+.my-nav {
+    background: #FF6600;
+}
+
+.my-nav ul {
+    margin:10px 0;
+}
+
+#carousel-info, #about, #my-work, #contact-me {
+    padding-top: 70px;
+}
+
+
